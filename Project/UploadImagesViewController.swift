@@ -10,9 +10,13 @@ import UIKit
 class UploadImagesViewController: UIViewController {
     
     let uivc=UploadImagesViewController()
+    func displayUI(){
+        print("upload images")
+    }
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        displayUI()
 
         // Do any additional setup after loading the view.
     }
