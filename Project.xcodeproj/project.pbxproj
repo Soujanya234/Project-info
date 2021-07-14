@@ -15,6 +15,7 @@
 		1B9FFC22269EBBB300B49BA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1B9FFC20269EBBB300B49BA1 /* LaunchScreen.storyboard */; };
 		1B9FFC2D269EBBB500B49BA1 /* ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B9FFC2C269EBBB500B49BA1 /* ProjectTests.swift */; };
 		1B9FFC38269EBBB500B49BA1 /* ProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B9FFC37269EBBB500B49BA1 /* ProjectUITests.swift */; };
+		1B9FFC4B269EBE0C00B49BA1 /* UploadImagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1B9FFC4A269EBE0C00B49BA1 /* UploadImagesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		1B9FFC33269EBBB500B49BA1 /* ProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1B9FFC37269EBBB500B49BA1 /* ProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectUITests.swift; sourceTree = "<group>"; };
 		1B9FFC39269EBBB500B49BA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1B9FFC4A269EBE0C00B49BA1 /* UploadImagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UploadImagesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				1B9FFC1E269EBBB300B49BA1 /* Assets.xcassets */,
 				1B9FFC20269EBBB300B49BA1 /* LaunchScreen.storyboard */,
 				1B9FFC23269EBBB300B49BA1 /* Info.plist */,
+				1B9FFC4A269EBE0C00B49BA1 /* UploadImagesViewController.swift */,
 			);
 			path = Project;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				1B9FFC1A269EBBA600B49BA1 /* ViewController.swift in Sources */,
 				1B9FFC16269EBBA600B49BA1 /* AppDelegate.swift in Sources */,
+				1B9FFC4B269EBE0C00B49BA1 /* UploadImagesViewController.swift in Sources */,
 				1B9FFC18269EBBA600B49BA1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
